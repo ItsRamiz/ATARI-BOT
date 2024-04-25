@@ -1,5 +1,3 @@
-**Code remains private until the end of course - 29/3/2024**
-
 ***WARNING: The code provided requires an external GPU to speed up the learning phase and around 12-16GB of Memory***
 ***Highly recommended to run on Google Collab before using personal workspace***
 
